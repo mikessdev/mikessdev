@@ -8,7 +8,8 @@
   
 ##  
   
-### Tecnologias que ja tive contato ou que estou estudando...
+### No momento eu não tenho conseguido manter meu github atualizado, estou dando prioridades ao estágio e a faculdade, e a maioria dos trabalhos que tenho feito com as tecnologias abaixo, pertecem a empresa que atualmente trabalho, logo não tenho permissao para compartilhar aqui no github.
+Tecnologias que ja tive contato e que estou estudando...
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Mike-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
