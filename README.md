@@ -6,17 +6,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeSantana&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
-##  
-  
-### No momento eu não tenho conseguido manter meu github atualizado, estou dando prioridades ao estágio e a faculdade, e a maioria dos trabalhos que tenho feito com as tecnologias abaixo, pertecem a empresa que atualmente trabalho, logo não tenho permissao para compartilhar aqui no github.
-Tecnologias que ja tive contato e que estou estudando...
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Mike-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="Mike-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Mike-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Mike-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img align="center" alt="Mike-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
   <img align="center" alt="Mike-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> 
 </div>
   
