@@ -21,3 +21,5 @@
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikessdev&show=reviews,discussions_started,discussions_answered&show_icons=true&theme=tokyonight)]
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikessdev&repo=github-readme-stats)]
