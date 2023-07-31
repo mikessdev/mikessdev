@@ -2,7 +2,10 @@
 
 Olá, sou o Mike Santos, um desenvolvedor web full stack autodidata apaixonado e engenheiro de software freelancer. minha paixão por software é sonhar com ideias e torná-las realidade com interfaces elegantes. tomo muito cuidado com a experiência, a arquitetura e a qualidade do código das coisas que construo.
 
+<div wigth="200px" heigth="200px">
+  
 ![image](https://github.com/mikessdev/mikessdev/assets/77863237/4f7dffbc-b1f5-46ce-b8c1-c4f38c0f4bf7)
+</div>
 
 
 📈 minhas estatísticas do github:
