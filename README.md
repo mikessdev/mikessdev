@@ -20,4 +20,4 @@
   <a href="https://www.linkedin.com/in/mikesatana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikessdev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikessdev&show=reviews,discussions_started,discussions_answered&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
