@@ -2,6 +2,7 @@
 
 Olá, sou o Mike Santos, um desenvolvedor web full stack autodidata apaixonado e engenheiro de software freelancer. minha paixão por software é sonhar com ideias e torná-las realidade com interfaces elegantes. tomo muito cuidado com a experiência, a arquitetura e a qualidade do código das coisas que construo.
 
+![](https://komarev.com/ghpvc/?username=mikessdev&color=blueviolet&style=for-the-badge)
 
 📈 minhas estatísticas do github:
 
