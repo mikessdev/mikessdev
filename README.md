@@ -2,7 +2,7 @@
 
 Olá. 
 
-Sou o Mike Santos, Tenho quase 2 anos de xp na área de desenvolvimento de software, atuei principalmente com Vuejs e Nodejs (express e Nestjs).
+Sou o Mike Santos, tenho quase 2 anos de xp na área de desenvolvimento de software, atuei principalmente com Vuejs e Nodejs (express e Nestjs).
 Gosto bastante de programar com typescript e javascript, ultimamente tenho focado no desenvolvimento de software na plataforma Node, mas sou totalmente aberto a usar novas tecnologias. 
 
 📈 Minhas estatísticas do github:
