@@ -2,8 +2,7 @@
 
 Olá. 
 
-Sou o Mike Santos, tenho quase 2 anos de xp na área de desenvolvimento de software, atuei principalmente com Vuejs e Nodejs (express e Nestjs).
-Gosto bastante de programar com typescript e javascript, ultimamente tenho focado no desenvolvimento de software na plataforma Node, mas sou totalmente aberto a usar novas tecnologias. 
+Me chamo Mike, sou estudante de Engenharia de Software e atuei por quase 2 anos como desenvolvedor fullstack no ecossistema JavaScript.
 
 📈 Minhas estatísticas do github:
 
