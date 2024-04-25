@@ -2,7 +2,8 @@
 
 Olá. 
 
-Me chamo Mike, sou estudante de Engenharia de Software e atuei por quase 2 anos como desenvolvedor fullstack no ecossistema JavaScript.
+Seja bem vindo!
+
 
 📈 Minhas estatísticas do github:
 
